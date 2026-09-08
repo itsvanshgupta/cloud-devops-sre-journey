@@ -47,45 +47,7 @@ By the end of Day 1, I should be able to:
 - Explain the above concepts in an entry-level technical interview.
 
 ---
+By Vansh Gupta
 
-## 🧠 Engineer's Mental Model
 
-Cloud and DevOps technologies are connected rather than isolated:
-
-```text
-                         CLOUD
-                           │
-                           ▼
-                    AWS FUNDAMENTALS
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-           COMPUTE                  NETWORKING
-             EC2                      VPC / S3
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                         LINUX
-                           │
-                           ▼
-                      GIT / GITHUB
-                           │
-                           ▼
-                        DOCKER
-                           │
-                           ▼
-                         CI/CD
-                           │
-                           ▼
-                     KUBERNETES
-                           │
-                           ▼
-                   MONITORING / SRE
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-          SECURITY                 RELIABILITY
-              │                         │
-              └────────────┬────────────┘
-                           ▼
                   INTERVIEW + PROJECTS
