@@ -48,6 +48,3 @@ By the end of Day 1, I should be able to:
 
 ---
 By Vansh Gupta
-
-
-                  INTERVIEW + PROJECTS
